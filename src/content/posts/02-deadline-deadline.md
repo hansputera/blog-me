@@ -2,9 +2,9 @@
 title: Deadline, deadline, deadline
 description: Tiap hari ada aja deadlinenya, ehe :(
 draft: false
-publishedAt: 2024-08-03
+published: 2024-08-03
 category: General
-tags: daily
+tags: [daily]
 ---
 
 # Deadline??
