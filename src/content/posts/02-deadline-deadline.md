@@ -3,7 +3,7 @@ title: Deadline, deadline, deadline
 description: Tiap hari ada aja deadlinenya, ehe :(
 draft: false
 published: 2024-08-03
-category: General
+category: Daily
 tags: [daily]
 ---
 
@@ -46,6 +46,7 @@ Untuk moderator, slide operator, dan prepare proyektor itu dari kelompok lain. J
 Di pertemuan selanjutnya, aman-aman aja nih ya. Dimalamnya sebelum esok harinya presentasi, aku udah wanti-wanti untuk prepare pptnya kalau emang belum buat.
 Namun, tau enggak apa responsnya?
 > Gr*: aniff, saya ndaa punyaa buku paket bindoo
+
 > Ad*: Tdk sya tau
 
 Welp, padahal udah aku kasih reply judul materinya mereka, namun kenapa enggan dicari gitu?
