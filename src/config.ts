@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'https://avatars.githubusercontent.com/u/47862061?v=4',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Hanif Dwy Putra S',
-  bio: 'I love fruits..',
+  bio: '17 years old, Fullstack Developer, and a student',
   links: [
     {
       name: 'Twitter',
@@ -63,6 +63,11 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:github',
       url: 'https://github.com/hansputera',
     },
+    {
+      name: 'LinkedIn',
+      icon: 'fa6-brands:linkedin',
+      url: 'https://www.linkedin.com/in/hansputera',
+    }
   ],
 }
 
