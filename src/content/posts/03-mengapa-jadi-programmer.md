@@ -95,7 +95,7 @@ Ya minimal waktu itu tuh, satu hari bisa lima fitur lah yang jadi, aku yang hand
 
 Oke sesampailah pada saat mengerikan, yaitu pada hari-H PPDB. Website kita belum jadi, yakni cuman bisa login dan register doang (dalam ati, ya Allah). Dan, siangnya di sekolah udah pasang poster dan bannernya PPDB 😂
 
-Welp, jujur aja. Operator sekolah ibarat PM (Product Manager) yang nyuruh-nyuruh aja, ngasih gambaran doang, eh no, lebih ke client sih jatuhnya 😭😂
+Welp, jujur aja. Operator sekolah ibarat PM (Project Manager) yang nyuruh-nyuruh aja, ngasih gambaran doang, eh no, lebih ke client sih jatuhnya 😭😂
 
 There's no tech lead or someone else yang paham teknologi yang kita pake. So, aku yang handle penuh proyek ini secara technical.
 
