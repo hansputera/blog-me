@@ -105,6 +105,14 @@ Nah, jadi mau ngga mau harus live production (bug masih banyak banget), aku disi
 
 Oke karena ceritanya ini puanjangg bangets, aku lanjut sampai di akhir PPDB. Yup, I didnt receive sepeser pun uang. That's it! 🙏
 
+I love open-source software btw, jadi yang mau lihat kode yang saya buat bisa lihat di repo GitHub dibawah ya 🔥🙌
+
+::github{repo="https://github.com/smantriplw/roatap-ppdb"}
+
+::github{repo="https://github.com/smantriplw/ppdb-fe"}
+
+::github{repo="https://github.com/smantriplw/ppdb-admin-fe"}
+
 ### Back to freelance like old days
 Nah semakin mendekati 2024, aku kembali freelance online seperti dulu, menerima orderan dari client yang ada di discord atau Facebook. Namun, kadang juga nyari website platform freelance, dan ngebid juga. Karena menurutku ini cara yang terbaik untuk mengais rupiah 🙌
 
