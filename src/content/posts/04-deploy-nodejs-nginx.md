@@ -359,7 +359,7 @@ server {
 }
 ```
 
-Udah gitu doang, cuman butuh SSL Certificate aja dari [LetsEncrypt](https://letsencrypt.org), untuk tutorialnya bakal saya buatkan di artikel selanjutnya ✌️
+Udah gitu doang, cuman butuh SSL Certificate aja dari [LetsEncrypt](https://letsencrypt.org), untuk tutorialnya bakal saya buatkan di artikel selanjutnya ✌️ ([Lihat Disini](/posts/05-generate-ssl-letsencrypt/))
 
 Setelah itu, sisanya sama seperti cara di [NGINX Setup Domain - Tanpa SSL](#domain-dengantanpa-ssl) ❤️
 
