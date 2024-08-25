@@ -200,15 +200,15 @@ Salah satu solusi yang saya temukan adalah dengan menggunakan layanan SSL gratis
 ![zerossl http file up](https://i.imgur.com/SMda75Q.png)
 7. Silahkan teman-teman download file teks "Download File Auth", kemudian jalankan perintah dibawah di VPSnya teman-teman
 ```bash
-sudo mkdir -p /var/www/well-known/.pki-validation
+sudo mkdir -p /var/www/well-known/pki-validation
 ```
 :::note
-Perintah `mkdir -p /var/www/well-known/.pki-validation` berfungsi untuk membuat directory `/var/www/well-known/.pki-validation`
+Perintah `mkdir -p /var/www/well-known/pki-validation` berfungsi untuk membuat directory `/var/www/well-known/pki-validation`
 :::
 
 8. Jika sudah, silahkan teman-teman copy nama filenya  dan isinya yang sudah teman-teman download tadi. Dan, jalankan perintah dibawah,
 ```bash
-sudo nano /var/www/well-known/.pki-validation/NAMA_FILE_DICOPY
+sudo nano /var/www/well-known/pki-validation/NAMA_FILE_DICOPY
 ```
 
 :::important
